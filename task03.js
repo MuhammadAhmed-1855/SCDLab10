@@ -1,3 +1,4 @@
+//Muhammad Ahmed, 20I-11855, SE-P
 
 function power(x, y) {
     return(Math.pow(x, y));

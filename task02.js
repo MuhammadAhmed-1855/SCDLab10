@@ -1,3 +1,4 @@
+//Muhammad Ahmed, 20I-11855, SE-P
 
 function sumCheck(x, y, z) {
     let sum = 0;
